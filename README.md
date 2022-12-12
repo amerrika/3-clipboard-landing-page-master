@@ -13,4 +13,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 In this project I was using css variables and utility classes that I created and I tried to make the website responsive. Unfortunately my code is not screen reader - friendly.
 
+Link: https://teal-yeot-276901.netlify.app/
+
 
